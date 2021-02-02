@@ -1,0 +1,22 @@
+{
+    "require":
+    {
+        "php":"^8.0"
+    },
+    "autoload":
+    {
+        "psr-4":
+        {
+            "WP_Plugin\\VirtualPages\\":["Library/Controllers/","Library/Models/"],
+            "WP_Plugin\\":"Library/"
+        }
+    },
+    "autoload-dev": 
+    {
+        "psr-4": 
+        { 
+            "Tests\\": ["Test/","Test/Library/Main/","Test/Library/"],
+            "Tests\\TestWordpress\\Classes\\":"Test/Library/Environments/Classes/"
+        }
+    }
+}

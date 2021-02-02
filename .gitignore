@@ -1,0 +1,7 @@
+Test/**
+Resources/node_modules/**
+Resources/Index.js
+Resources/webpack.config.js
+Resources/Virtual_Pages/JS/**
+Resources/JS/**
+*.rar
