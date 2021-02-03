@@ -1,5 +1,6 @@
 <?php declare(strict_types=1);
 namespace WP_Plugin\VirtualPages;
+defined('ABSPATH') || exit;
 
 use stdClass;
 use \WP_Post;

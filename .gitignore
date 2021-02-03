@@ -1,4 +1,3 @@
-Test/**
 Resources/node_modules/**
 Resources/Index.js
 Resources/webpack.config.js

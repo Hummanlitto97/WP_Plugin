@@ -1,6 +1,7 @@
 <?php declare(strict_types=1);
 
 namespace WP_Plugin;
+defined('ABSPATH') || exit;
 
 use \WP_Plugin\VirtualPages\{PagesController, Page};
 use \WP_Query;
