@@ -8,4 +8,6 @@ $baseDir = dirname($vendorDir);
 return array(
     'WP_Plugin\\VirtualPages\\' => array($baseDir . '/Library/Controllers', $baseDir . '/Library/Models'),
     'WP_Plugin\\' => array($baseDir . '/Library'),
+    'Tests\\TestWordpress\\Classes\\' => array($baseDir . '/Test/Library/Environments/Classes'),
+    'Tests\\' => array($baseDir . '/Test', $baseDir . '/Test/Library/Main', $baseDir . '/Test/Library'),
 );

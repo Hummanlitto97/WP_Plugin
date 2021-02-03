@@ -2,7 +2,7 @@
 namespace WP_Plugin\VirtualPages;
 
 use stdClass;
-use \WP_Post;
+use Tests\TestWordpress\Classes\WP_Post;
 /**
  * Virtual page model
  * @plugin WP_Plugin

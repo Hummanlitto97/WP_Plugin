@@ -3,7 +3,7 @@
 namespace WP_Plugin;
 
 use \WP_Plugin\VirtualPages\{PagesController, Page};
-use \WP_Query;
+use Tests\TestWordpress\Classes\WP_Query;
 /**
  * Class for WP_Plugin handling
  */

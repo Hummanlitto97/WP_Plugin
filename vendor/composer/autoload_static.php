@@ -12,6 +12,11 @@ class ComposerStaticInitf171cc1794a1137502624312f59de073
             'WP_Plugin\\VirtualPages\\' => 23,
             'WP_Plugin\\' => 10,
         ),
+        'T' => 
+        array (
+            'Tests\\TestWordpress\\Classes\\' => 28,
+            'Tests\\' => 6,
+        ),
     );
 
     public static $prefixDirsPsr4 = array (
@@ -23,6 +28,16 @@ class ComposerStaticInitf171cc1794a1137502624312f59de073
         'WP_Plugin\\' => 
         array (
             0 => __DIR__ . '/../..' . '/Library',
+        ),
+        'Tests\\TestWordpress\\Classes\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/Test/Library/Environments/Classes',
+        ),
+        'Tests\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/Test',
+            1 => __DIR__ . '/../..' . '/Test/Library/Main',
+            2 => __DIR__ . '/../..' . '/Test/Library',
         ),
     );
 

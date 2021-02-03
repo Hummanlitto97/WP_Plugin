@@ -1,8 +1,8 @@
 <?php declare(strict_types=1);
 namespace WP_Plugin\VirtualPages;
 
-use \WP;
-use \WP_Post;
+use Tests\TestWordpress\Classes\WP;
+use Tests\TestWordpress\Classes\WP_Post;
 /**
  * Virtual Pages controller
  * @plugin WP_Plugin
