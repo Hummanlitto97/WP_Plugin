@@ -4,6 +4,10 @@ This plugin lets you create virtual pages with action hook -> WP_Plugin_add_virt
 
 You can use preinstalled template in plugin -> Pages.php
 
+## License
+
+Inside file license is void and you should only pay attetion to license inside LICENSE file
+
 ## Requirements
 - PHP 8+
 - WordPress 5.6+
