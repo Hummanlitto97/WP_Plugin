@@ -6,7 +6,7 @@ You can use preinstalled template in plugin -> Pages.php
 
 ## License
 
-Inside code file license is void and you should only pay attetion to license inside LICENSE file
+Inside code file license is void and you should only pay attention to license inside LICENSE file
 
 ## Requirements
 - PHP 8+
